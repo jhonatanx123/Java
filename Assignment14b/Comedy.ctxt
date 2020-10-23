@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Comedy
+comment0.text=\r\n\ Assignemnt\ 14b\r\n\ A\ Comedy\ class\ derived\ from\ Movie\r\n\r\n\ Jhonatan\ Roopnarine\r\n\ 04/05/2020\r\n
+comment1.params=
+comment1.target=Comedy()
+comment2.params=aRating\ aID\ aTitle
+comment2.target=Comedy(java.lang.String,\ int,\ java.lang.String)
+comment3.params=days
+comment3.target=double\ calcLateFees(int)
+numComments=4

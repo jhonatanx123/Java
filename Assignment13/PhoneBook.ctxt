@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PhoneBook
+comment1.params=total_records
+comment1.target=PhoneBook(int)
+comment2.params=
+comment2.target=void\ readRecord()
+comment3.params=i
+comment3.target=java.lang.String\ toString(int)
+comment4.params=i
+comment4.target=void\ writeRecord(int)
+comment5.params=
+comment5.target=void\ writeBook()
+numComments=6

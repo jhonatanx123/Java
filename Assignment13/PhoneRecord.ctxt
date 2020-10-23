@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PhoneRecord
+comment0.text=\r\n\ Assignment13\r\n\ PhoneRecord\ class\ where\ the\ properties\ will\ be\ public,\ \r\n\ and\ it\ should\ have\ two\ constructors\:\ one\ which\ \r\n\ simply\ constructs\ the\ string\ and\ another\ that\ \r\n\ accepts\ values\ for\ first\ name,\ lastname\ and\ phone\ number.\r\n\r\n\ Jhonatan\ Roopnarine\r\n\ 03/29/2020\r\n
+comment1.params=
+comment1.target=PhoneRecord()
+comment2.params=firstName\ lastName\ number
+comment2.target=PhoneRecord(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

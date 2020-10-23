@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DiscountSale
+comment0.text=\r\nAssignment\ 15\r\nDerived\ classDiscountSale\r\n\r\nJhonatan\ Roopnarine\r\n04/06/2020\r\n
+comment1.params=
+comment1.target=DiscountSale()
+comment2.params=theName\ thePrice\ theDiscount
+comment2.target=DiscountSale(java.lang.String,\ double,\ double)
+comment3.params=originalObject
+comment3.target=DiscountSale(DiscountSale)
+comment4.params=
+comment4.target=void\ announcement()
+comment5.params=
+comment5.target=double\ bill()
+comment6.params=
+comment6.target=double\ getDiscount()
+comment7.params=newDiscount
+comment7.target=void\ setDiscount(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=otherObject
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

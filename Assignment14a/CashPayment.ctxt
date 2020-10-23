@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CashPayment
+comment1.params=
+comment1.target=CashPayment()
+comment2.params=amt
+comment2.target=CashPayment(double)
+comment3.params=
+comment3.target=void\ paymentDetails()
+numComments=4

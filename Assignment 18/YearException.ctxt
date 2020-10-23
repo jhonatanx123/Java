@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=YearException
+comment0.text=\r\nAssignment\ 18\r\nIf\ the\ user\ enter\ a\ year\ outside\ the\ range\ 1000\ through\ \r\n3000\ (inclusive),\ then\ your\ program\ will\ throw\ and\ catch\r\na\ YearException\ and\ ask\ the\ user\ to\ re-enter\ the\ year.\r\n\r\nJhonatan\ Roopnarine\r\n04/10/2020\r\n
+comment1.params=string
+comment1.target=YearException(java.lang.String)
+numComments=2

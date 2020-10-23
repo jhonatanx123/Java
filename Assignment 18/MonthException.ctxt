@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MonthException
+comment0.text=\r\n\ Assignment\ 18\r\n\ If\ the\ user\ enter\ anything\ other\ than\ a\ legal\ month\ number\ \r\n\ (integers\ 1\ through\ 12),\ your\ program\ will\ throw\ and\ catch\ \r\n\ MonthException\ and\ ask\ the\ user\ to\ re-enter\ then\ month.\r\n\r\nJhonatan\ Roopnarine\r\n04/10/2020\r\n
+comment1.params=string
+comment1.target=MonthException(java.lang.String)
+numComments=2

@@ -1,0 +1,20 @@
+
+/**
+ *Assignment 18
+ *If the user enter a year outside the range 1000 through 
+ *3000 (inclusive), then your program will throw and catch
+ *a YearException and ask the user to re-enter the year.
+ *
+ *Jhonatan Roopnarine
+ *04/10/2020
+ */
+
+
+
+public class YearException extends Exception 
+{
+   public YearException(String string) 
+   {
+       System.out.println(string);
+   }
+}

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\r\n\ You\ are\ going\ to\ write\ a\ program\ that\ reads\ \r\n\ in\ a\ temperature\ in\ degrees\ Kelvin\ \r\n\ and\ then\ prints\ the\ same\ temperature\ \r\n\ expressed\ in\ degrees\ Celsius\ and\ degrees\ Fahrenheit.\r\n\r\n\ Jhonatan\ Roopnarine\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

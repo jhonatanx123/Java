@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Name
+comment1.params=
+comment1.target=Name()
+comment2.params=first\ middle\ last
+comment2.target=Name(java.lang.String,\ char,\ java.lang.String)
+comment3.params=first\ last
+comment3.target=Name(java.lang.String,\ java.lang.String)
+comment4.params=other
+comment4.target=Name(Name)
+comment5.params=
+comment5.target=void\ readName()
+comment6.params=
+comment6.target=void\ writeName()
+comment7.params=otherName
+comment7.target=boolean\ equals(Name)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=otherName
+comment9.target=boolean\ precedes(Name)
+numComments=10
